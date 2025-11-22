@@ -172,7 +172,7 @@ class Utility
                             ); ?>
                         </li>
                     </ol>
-                    <p><?php printf(esc_html_e("If needed, you can adjust your banner settings in your CookieScript dashboard.", "CookieScript")); ?></p>
+                    <p><?php printf(esc_html__("If needed, you can adjust your banner settings in your CookieScript dashboard.", "CookieScript")); ?></p>
                     <p style="margin: 24px 0">
                         <?php
                         printf(
